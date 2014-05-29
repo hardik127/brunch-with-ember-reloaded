@@ -21,8 +21,9 @@
   },
   "dependencies": {
     "javascript-brunch": "~1.7.0",
+    "coffee-script-brunch": "~1.7.0",
     "css-brunch": "~1.7.0",
-    "stylus-brunch": "~1.7.0",
+    "sass-brunch": "~1.8.0",
     "uglify-js-brunch": "~1.7.0",
     "clean-css-brunch": "~1.7.0",
     "auto-reload-brunch": "~1.7.0",
